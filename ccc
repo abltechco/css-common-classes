@@ -61,3 +61,12 @@
  .show{
   display:block;
 }
+.s{
+  overflow: auto;
+}
+.sx{
+  overflow-y: scroll;
+}
+.sy{
+  overflow-y: scroll;
+}
