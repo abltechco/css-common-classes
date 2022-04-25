@@ -16,3 +16,12 @@
 .bgr{
   background:red;
 }
+.pd{
+  padding: 1em;
+}
+.pd10{
+  padding:10px;
+}
+.pd12{
+  padding:12px;
+}
