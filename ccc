@@ -1,3 +1,22 @@
+:root {
+  --bgColor: #6495ed;
+  --paraColor: #faf0e6; 
+  --sectionColor: #fff;
+  --lineColor:#4533ff;
+  --size1:6px;
+  --ffamily:'Century Gothic';
+}
+
+@media screen and (min-width: 450px) {
+  /**/
+}
+
+@media screen and (min-width: 750px) {
+ /**/
+}
+
+
+
 .bdr{
   border:1px solid gray
 }
