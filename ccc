@@ -15,7 +15,11 @@
  /**/
 }
 
+.btn {
+  --bgColor: #0000ff; /* local variable will override global */
+  background-color: var(--bgColor);
 
+}
 
 .bdr{
   border:1px solid gray
