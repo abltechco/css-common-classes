@@ -70,3 +70,19 @@
 .sy{
   overflow-y: scroll;
 }
+.fl{
+float: left;
+}
+.di{
+  display:inline;
+ }
+ .db{
+    display:block;
+ }
+ .ah{
+  justify-content: space-evenly;
+  display:flex;
+}
+.av{
+  vertical-align:middle;
+}
